@@ -1,4 +1,4 @@
 # real-time-iMRI
-Real-time MRI-based Intraoperative Tracking with Dimension-aware Safe Trajectory Planning for Neurosurgical Robot
+Real-time MRI-guided Robotic Neurosurgery with Dimension-aware Safe Trajectory Planning and Intraoperative Tracking
 
-> The code will be open source after the paper is accepted.
+> The code will be made open source upon acceptance of the paper.
